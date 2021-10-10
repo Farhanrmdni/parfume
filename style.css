@@ -1,0 +1,27 @@
+about {
+  padding-top: 5rem;
+}
+.col h1 {
+  padding-top: 3rem;
+  font-family: 'Brush Script MT';
+  font-size: 5em;
+}
+.tentang p {
+  padding-left: 8rem;
+  padding-right: 8rem;
+  padding-bottom: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tentang {
+  padding: 5rem;
+}
+#product {
+  background-color: #343a40;
+}
+.col h2 {
+  font-family: 'Times New Roman', Times, serif;
+}
+.card {
+  float: left;
+}
